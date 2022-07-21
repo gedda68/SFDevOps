@@ -4,6 +4,7 @@
  *  V1.0     21-07-2022 Ged A   Add Method implemented
  ****************************************************************/ 
 
+
 public with sharing class Calculator {
     public Calculator() {
 
