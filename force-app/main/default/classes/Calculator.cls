@@ -13,4 +13,7 @@ public with sharing class Calculator {
     public integer multiply(integer a, integer b){
         return a*b;
     }
+    
+    public integer divide(integer a, integer b){
+    }
 }
