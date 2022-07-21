@@ -1,11 +1,16 @@
 /****************************************************************
- * Name: Calculator
- * Author: Ged
- * Date: 2022-07-21
- */
+ *  VERSION  DATE       NAME    DESCRIPTION
+ * ==============================================================
+ *  V1.0     21-07-2022 Ged A   Add Method implemented
+ ****************************************************************/ 
+
+
 public with sharing class Calculator {
     public Calculator() {
 
     
+    }
+    public integer add(integer a, integer b){
+        return a+b;
     }
 }
